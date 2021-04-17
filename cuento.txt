@@ -5,4 +5,7 @@ y seguimos editando , y volvemos a editar
 
 Prueba con sourcetree  editamos para ver que pasa!!!!!!!!!!!!!!
 
-Y ahora continuo segunprueba con sourcetree!!!!!!!!!!
+Y ahora continuo segunprueba con sourcetree!!!!!!!!!!}
+
+
+Bueno ahora vamos hacer un pull desde nuestro repositorio remoto hacia el repositorio local.
