@@ -2,6 +2,7 @@ habia una vez una niña que siempre tenia puesta, luego penso que hago , y se fu
 
 
 y seguimos editando , y volvemos a editar
+<<<<<<< HEAD
 
 Prueba con sourcetree  editamos para ver que pasa!!!!!!!!!!!!!!
 
@@ -13,3 +14,5 @@ Segunda Prueba con gituhb desktop vamos a ver 1:57 pm
 
 
 Vamos ahora hacer un pull desde DEsktop para ver los cambios hechos remostos desde la web de GIT
+=======
+>>>>>>> parent of b6a9284 (Prueba sourcetree)
